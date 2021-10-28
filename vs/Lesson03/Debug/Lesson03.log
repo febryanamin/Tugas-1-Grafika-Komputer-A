@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  Demo.cpp
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(189,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(303,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(417,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(531,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(645,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(759,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(873,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Lesson03\Demo.cpp(987,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  RenderEngine.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Debug\vc110.pdb'; linking object as if no debug info
+  Lesson03.vcxproj -> C:\Users\ahmad\source\repos\Tugas-1-Grafika-Komputer-A-master\vs\Debug\Meja.exe
